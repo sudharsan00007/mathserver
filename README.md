@@ -329,7 +329,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 ~~~
 # SERVER SIDE PROCESSING:![Screenshot 2024-12-07 204900](https://github.com/user-attachments/assets/690b645d-b941-450e-91ef-9df3f9b2f50a)
 
-# HOMEPAGE:![Screenshot 2024-12-07 225224](https://github.com/user-attachments/assets/e60a2e0f-d297-4551-b18b-ae7b6663b946)
 
 # RESULT:
 The program for performing server side processing is completed successfully.
